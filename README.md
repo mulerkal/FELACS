@@ -1,3 +1,2 @@
 # FELACS
-
-the  code will realse upon request 
+The code will be released upon the acceptance of the paper for publication.
